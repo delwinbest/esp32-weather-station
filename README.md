@@ -1,4 +1,4 @@
-# ThingPulse ESP8266 Weather Station
+# FORKED and Modified ThingPulse ESP8266 Weather Station for ESP32
 
 
 [![ThingPulse logo](https://thingpulse.com/assets/ThingPulse-w300.svg)](https://thingpulse.com)

@@ -10,3 +10,6 @@ RemoteSystemsTempFiles
 .vscode
 .clang_complete
 .gcc-flags.json
+.pio
+.pio/**
+.piio/*
